@@ -1,0 +1,6 @@
+/Users/chenzichang/CLionProjects/cpp-learn/demo3/CMakeFiles/Demo.dir
+/Users/chenzichang/CLionProjects/cpp-learn/demo3/CMakeFiles/edit_cache.dir
+/Users/chenzichang/CLionProjects/cpp-learn/demo3/CMakeFiles/rebuild_cache.dir
+/Users/chenzichang/CLionProjects/cpp-learn/demo3/math/CMakeFiles/powerFunction.dir
+/Users/chenzichang/CLionProjects/cpp-learn/demo3/math/CMakeFiles/edit_cache.dir
+/Users/chenzichang/CLionProjects/cpp-learn/demo3/math/CMakeFiles/rebuild_cache.dir
